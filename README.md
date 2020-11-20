@@ -1,6 +1,6 @@
 # Machine-Learning
 
-###Veri Manipülasyonu
+### Veri Manipülasyonu
 * JupyterLab
 * NumPy
 * Oluşturma ve Biçimlendirme
