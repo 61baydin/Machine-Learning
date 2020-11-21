@@ -19,7 +19,7 @@
 * Standartlaştırma 
 * Değişken Dönüşümleri
 
-## Makine Öğrenmesi
+### Makine Öğrenmesi
 #### 101: Makine Öğrenmesine Giriş
 
 #### 201: Doğrusal Regresyon Modelleri
