@@ -13,7 +13,7 @@
 * Pandas Dataframe
 * Gruplama ve Toplulaştırma İşlemleri
 
-### Veri Ön İşleme
+### Veri Ön İşleme 101
 * Aykırı Gözlem Analizi 
 * Eksik Gözlem Analizi 
 * Standartlaştırma 
