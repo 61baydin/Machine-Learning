@@ -18,3 +18,14 @@
 * Eksik Gözlem Analizi 
 * Standartlaştırma 
 * Değişken Dönüşümleri
+
+## Makine Öğrenmesi
+#### 101: Makine Öğrenmesine Giriş
+
+#### 201: Doğrusal Regresyon Modelleri
+
+#### 301: Doğrusal Olmayan Regresyon Modelleri
+
+#### 401: Sınıflandırma Modelleri
+
+#### 501: Denetimsiz Öğrenme Yöntemleri
