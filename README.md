@@ -23,6 +23,11 @@
 #### 101: Makine Öğrenmesine Giriş
 
 #### 201: Doğrusal Regresyon Modelleri
+* Basit Doğrusal Regresyon
+* Çoklu Doğrusal Regresyon
+* Ridge Regresyon
+* Lasso Regresyon
+* ElasticNet Regresyon
 
 #### 301: Doğrusal Olmayan Regresyon Modelleri
 
