@@ -30,6 +30,15 @@
 * ElasticNet Regresyon
 
 #### 301: Doğrusal Olmayan Regresyon Modelleri
+* K En Yakın Komşu
+* Destek Vektör Regresyonu
+* Yapay Sinir Ağları
+* CART
+* Random Forests
+* Gradient Boosting Machines (GBM)
+* XGBoost
+* Light GBM
+* CatBoost
 
 #### 401: Sınıflandırma Modelleri
 
