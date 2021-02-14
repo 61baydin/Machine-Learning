@@ -32,8 +32,8 @@
 #### 301: Doğrusal Olmayan Regresyon Modelleri
 * K En Yakın Komşu
 * Destek Vektör Regresyonu
-* Yapay Sinir Ağları
-* CART
+* Yapay Sinir Ağları 
+* CART   #en son kalınan yer
 * Random Forests
 * Gradient Boosting Machines (GBM)
 * XGBoost
