@@ -33,7 +33,8 @@
 * K En Yakın Komşu
 * Destek Vektör Regresyonu
 * Yapay Sinir Ağları 
-* CART   #en son kalınan yer
+* CART   
+###### en son kalınan yer
 * Random Forests
 * Gradient Boosting Machines (GBM)
 * XGBoost
