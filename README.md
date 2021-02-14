@@ -41,5 +41,18 @@
 * CatBoost
 
 #### 401: Sınıflandırma Modelleri
+* Lojistik Regresyon
+* K En Yakın Komşu
+* Destek Vektör Makineleri
+* Yapay Sinir Ağları
+* CART
+* Random Forests
+* Gradient Boosting Machines (GBM)
+* XGBoost
+* Light GBM
+* CatBoost
 
 #### 501: Denetimsiz Öğrenme Yöntemleri
+* K-Means
+* Hiyerarşik Kümeleme
+* Temel Bileşen Analizi
