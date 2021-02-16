@@ -34,13 +34,13 @@
 * Destek Vektör Regresyonu
 * Yapay Sinir Ağları 
 * CART   
-###### en son kalınan yer
 * Random Forests
 * Gradient Boosting Machines (GBM)
 * XGBoost
 * Light GBM
 * CatBoost
 
+###### en son kalınan yer
 #### 401: Sınıflandırma Modelleri
 * Lojistik Regresyon
 * K En Yakın Komşu
