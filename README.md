@@ -40,11 +40,11 @@
 * Light GBM
 * CatBoost
 
-###### en son kalınan yer
 #### 401: Sınıflandırma Modelleri
 * Lojistik Regresyon
 * K En Yakın Komşu
 * Destek Vektör Makineleri
+* ###### en son kalınan yer
 * Yapay Sinir Ağları
 * CART
 * Random Forests
