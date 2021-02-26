@@ -44,7 +44,6 @@
 * Lojistik Regresyon
 * K En Yakın Komşu
 * Destek Vektör Makineleri
-* ###### en son kalınan yer
 * Yapay Sinir Ağları
 * CART
 * Random Forests
