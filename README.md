@@ -1,6 +1,6 @@
 # Machine-Learning
 
-### Veri Manipülasyonu 101
+### [https://github.com/61baydin/Machine-Learning/tree/main/veri_manipulasyonu] (Veri Manipülasyonu 101) 
 * JupyterLab
 * NumPy
 * Oluşturma ve Biçimlendirme
