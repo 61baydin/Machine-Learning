@@ -13,7 +13,7 @@
 * Pandas Dataframe
 * Gruplama ve Toplulaştırma İşlemleri
 
-#### [Veri Görselleştirme](https://github.com/61baydin/Machine-Learning/tree/main/veri_gorsellestirme)
+### [Veri Görselleştirme](https://github.com/61baydin/Machine-Learning/tree/main/veri_gorsellestirme)
 * Büyük Resmi Görmek ve Veriyi Temsil Etmek
 * Veriye İlk Bakış
 * Kategorik Değişken Özetleri
